@@ -1,5 +1,5 @@
 # Resumen
-
+En este proyecto vamos a utilizar análisis factorial y métodos de agrupamiento para encontrar patrones comunes en los municipios de la región de La Araucanía y Los Ríos.
 
 # Introducción
 
